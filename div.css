@@ -121,4 +121,9 @@
          color:blue;
          text-decoration: none;
      }
-    
+    .contact{ 
+        color:blue;
+        text-align: center;
+        text-shadow: aqua;
+        text-size-adjust: 30px;
+    }
