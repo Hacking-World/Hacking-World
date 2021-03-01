@@ -150,7 +150,8 @@
     width:80%;
     height: 1024px;
     box-sizing: border-box;
-   
+    margin-left:10%;
+    margin-right:10%;
     float:left;
     color:white;
 }
